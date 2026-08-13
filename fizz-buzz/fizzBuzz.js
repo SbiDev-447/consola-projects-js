@@ -10,4 +10,12 @@ for (let i = 1; i <= 100; i++) {
   }
 }
 
+/*
+
+  For con If Else If sencillo, Primero comparamos los casos con mayor necesidad de Igualdad
+  y luego vamos desde los individuales hasta terminar en aquellos que no entran en las 
+  especificaciones especiales y que pueden ser imprimidos como números tal cual.
+
+*/
+
 console.log("FINISH");
